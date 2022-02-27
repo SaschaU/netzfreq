@@ -2,5 +2,7 @@
 Die Netzfrequenz von Deutschland / Europa auslesen
 
 Syntax:
-netzfreq 5
-5 Messungen
+netzfreq <count>
+
+count =  Messungen
+0hne ist unendlich.
