@@ -5,4 +5,5 @@ Syntax:
 netzfreq count
 
 count =  Messungen
+
 0hne ist unendlich.
